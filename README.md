@@ -9,7 +9,7 @@
 
 
 ## Datasets:
-We provide the data sources in the paper. Notably, after downloading the raw datasets, we first need to convert them to motif-based weighted graphs. In all of our experiments, we employ the codes released by MAPPR [Yin et al, KDD2017] to convert the raw datasets to motif-based weighted graphs. The source code of MAPPR is available at "http://snap.stanford.edu/mappr/". Please save the obtained weighted graphs in "EdgePush-master/dataset/" and rename them as "youtube.txt, soc-LiveJournal1.txt, indochina-2004.txt or orkut-links.txt", separately. 
+After downloading the raw datasets, we first need to convert them to motif-based weighted graphs. In all of our experiments, we employ the codes released by MAPPR [Yin et al, KDD2017] to convert the raw datasets to motif-based weighted graphs. The source code of MAPPR is available at "http://snap.stanford.edu/mappr/". Please save the obtained weighted graphs in "./dataset/" and rename them as "youtube.txt, soc-LiveJournal1.txt, indochina-2004.txt or orkut-links.txt", separately. 
 
 
 [Yin et al, KDD2017] Yin H, Benson A R, Leskovec J, et al. Local higher-order graph clustering[C]//Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining. 2017: 555-564.
