@@ -60,6 +60,6 @@ Notably, in our experiments, we use the public codes of MAPPR, FORA, SpeedPPR, P
 
 
 ## Remark:
-* EdgePush-master/datatset/: containing the datasets 
-* EdgePush-master/query/: containing the files for query nodes
-* EdgePush-master/result/: containing the SSPPR approximation. 
+* ./datatset/: containing the datasets 
+* ./query/: containing the files for query nodes
+* ./result/: containing the SSPPR approximation. 
